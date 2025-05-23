@@ -1,3 +1,8 @@
+'''
+source .venv/bin/activate
+python run_all.py
+'''
+
 import glob, os
 from nbformat import read, write
 from nbclient import NotebookClient
