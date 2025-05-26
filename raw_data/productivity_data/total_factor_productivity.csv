@@ -2923,5 +2923,5 @@ naics4,year,sd,d7525,d9010,d9990,d1001,sd*,d7525*,d9010*,d9990*,d1001*
 3399,2018,0.4357,0.4116,0.9898,1.076,0.383,0.4163,0.5368,1.037,0.6083,0.2868
 3399,2019,0.3665,0.3,0.8775,0.7263,0.3772,0.3974,0.467,0.9618,0.5808,0.3234
 3399,2020,0.3787,0.3651,0.9148,0.7949,0.3736,0.4083,0.5407,1.078,0.4491,0.2049
-Note: * refers to activity-weighted statistics. Cells with identified data quality concerns are suppressed with a publication flag ‘S’.,,,,,,,,,,,
+Note: * refers to activity-weighted statistics. Cells with identified data quality concerns are suppressed with a publication flag ï¿½Sï¿½.,,,,,,,,,,,
 "Note: Cells with The Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confidential source data. (Project No. P-7526913, Disclosure Review Board (DRB) approval number: CBDRB-FY23-0449)",,,,,,,,,,,

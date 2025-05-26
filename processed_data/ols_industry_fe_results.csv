@@ -1,0 +1,19 @@
+Dependent Variable,Independent Variable,Coefficient,Std Error,p-value,R-squared,Adj R-squared,N,Industry FE,Significance
+tfp_ann_pct_lead,eer,0.028829,0.025905,0.2658,0.1534,0.1269,1188,35,
+tfp_ann_pct_lead,pct_high_growth_emp,-0.028557,0.028007,0.3079,0.1529,0.1264,1188,35,
+tfp_ann_pct_lead,reallocation_rate,0.005356,0.015365,0.7274,0.1524,0.1259,1188,35,
+tfp_pct_change_lead,eer,0.054029,0.054863,0.3247,0.0507,0.0228,1260,35,
+tfp_pct_change_lead,pct_high_growth_emp,-0.063759,0.052209,0.2220,0.0505,0.0226,1260,35,
+tfp_pct_change_lead,reallocation_rate,-0.010327,0.033294,0.7564,0.0498,0.0218,1260,35,
+tfp_diff3,eer,0.000571,0.000739,0.4392,0.1445,0.1177,1188,35,
+tfp_diff3,pct_high_growth_emp,-0.000103,0.000891,0.9079,0.1440,0.1172,1188,35,
+tfp_diff3,reallocation_rate,0.000217,0.000471,0.6448,0.1442,0.1175,1188,35,
+tfp_ann_pct,eer,0.019154,0.024511,0.4345,0.1527,0.1262,1188,35,
+tfp_ann_pct,pct_high_growth_emp,-0.002703,0.029781,0.9277,0.1522,0.1257,1188,35,
+tfp_ann_pct,reallocation_rate,0.006958,0.015576,0.6551,0.1525,0.1260,1188,35,
+tfp_log,eer,-0.006950,0.001792,0.0001,0.4585,0.4430,1296,35,***
+tfp_log,pct_high_growth_emp,-0.010662,0.001882,0.0000,0.4634,0.4480,1296,35,***
+tfp_log,reallocation_rate,-0.006111,0.000979,0.0000,0.4787,0.4638,1296,35,***
+tfp_index_2017,eer,-0.648199,0.161434,0.0001,0.4743,0.4593,1296,35,***
+tfp_index_2017,pct_high_growth_emp,-0.985885,0.169310,0.0000,0.4816,0.4667,1296,35,***
+tfp_index_2017,reallocation_rate,-0.525338,0.082593,0.0000,0.4987,0.4844,1296,35,***
